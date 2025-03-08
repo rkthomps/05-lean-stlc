@@ -1,0 +1,10 @@
+[
+  {
+    "submission": "Hw5.lean",
+    "template": "Hw5Template.lean"
+  },
+  {
+    "submission": "Hw5_EC.lean",
+    "template": "Hw5_ECTemplate.lean"
+  }
+]
