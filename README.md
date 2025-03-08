@@ -1,15 +1,15 @@
 # 05-STLC
 Homework assignment 5 for CSE 230
 
-**Base** (Hw5.lean)
+**Base** ([Hw5.lean](Hw5.lean))
 STLC + If
-For the base points, do Hw5.lean
+For the base points, do [Hw5.lean](Hw5.lean)
 
-**Extra Credit** (Hw5_EC.lean) 
+**Extra Credit** [Hw5_EC.lean](Hw5_EC.lean) 
 STLC + If + Recursion
-* First you must get full points in `Hw5.lean`
+* First you must get full points in [Hw5.lean](Hw5.lean)
 * Then repeat all the stuff, with the new language including `ERec`
-* Of course, you can copy over / repeat any relevant bits from the `Hw5.lean` (most cases will "just work")
+* Of course, you can copy over / repeat any relevant bits from the [Hw5.lean](Hw5.lean) (most cases will "just work")
 
 ## Installation 
 You do not have to install lean to do this assignment. Instead, you can use Github Codespaces to do the assignment with VSCode in your browser using an environment we have already set up. You can create a codespace by selecting (Code -> Create codespace). After that, you can use the same codespace across sessions of completing the assignment. When creating the codespace, please allow 1-2 minutes for the codespace to finish setting up, and 1-2 minutes for the lean language server to start.  
