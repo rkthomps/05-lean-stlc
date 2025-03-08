@@ -24,6 +24,7 @@ At any point, you may check your progress by running
 ```
 make grade
 ```
+This command will show your progress on both `Hw5.lean` and `Hw5_EC.lean`. It will also show a combined score (which you can ignore). Note that you must get the full points for `Hw5.lean` before getting points on `Hw5_EC.lean` (even though the autograder may say otherwise). 
 
 ## Submitting
 You can submit the assignment by running
